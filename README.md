@@ -1,1 +1,1 @@
-# Link-Prediction-algorithm-for-recommender-
+# Link-Prediction-algorithm-for-recommender-system
